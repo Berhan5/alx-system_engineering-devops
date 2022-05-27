@@ -1,4 +1,2 @@
 #!/bin/bash
--r+x .
--r+x
--R+x .
+-R +X .
